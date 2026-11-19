@@ -87,7 +87,7 @@ const LogoAnimation = ({ onComplete }) => {
             }}
           >
             {/* CONVERSION NOTE:
-               Polygons have been converted to Paths (d="M... L... Z") 
+               Polygons have been converted to Paths (d="M... L... Z")
                to allow the 'pathLength' drawing animation to work.
             */}
 
